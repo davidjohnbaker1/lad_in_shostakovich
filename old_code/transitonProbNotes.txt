@@ -1,0 +1,18 @@
+Humdrum Snippets from Shostakovich Analysis 
+
+Removing the separate parts
+
+for i in *.krn; do extract -f 1 $i > $i.lh; done
+for i in *.krn; do extract -f 2 $i > $i.rh; done
+for i in *.krn; do extract -f 3 $i > $i.lh2; done
+for i in *.krn; do extract -f 4 $i > $i.rh2; done
+
+mv *.lh separated/
+(Do for others) 
+
+for file in *.krn.*; do context -n 2 $file | deg -a | grep -v '=' | rid -GLId | grep -v 'r'; done | grep ^5- | sortcount -p > flatfive.csv 
+^^ This one grabs ever occurrence of the indicated scale degree moving to the note next to it and counts it frequency of occr puts in CSV
+
+===============
+Thing that creates deg files and deals with that
+

@@ -1,0 +1,355 @@
+**kern
+*staff1
+=1-
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M3/4
+4dd-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+=2
+4a-/
+4ff\ 4aa-\
+4ff\ 4aa-\
+=3
+4dd-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+=4
+4a-/
+4ff\ 4aa-\
+.
+4ff\ 4aa-\
+.
+=5
+4dd-\
+.
+8ff\L 8aa-\
+8ff\J 8aa-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+=6
+4a-/
+.
+4ff\ 4aa-\
+.
+4ff\ 4aa-\
+.
+=7
+!!linebreak:original
+4ee-\
+8gg-\L 8aa-\
+8gg-\J 8aa-\
+8gg-\L 8aa-\
+8gg-\J 8aa-\
+=8
+4a-/
+4gg-\ 4aa-\
+.
+4gg-\ 4aa-\
+.
+=9
+4dd-\
+.
+8ff\L 8aa-\
+8ff\J 8aa-\
+8ff\L 8aa-\
+8ff\J 8aa-\
+=10
+4a-/
+.
+4ff\ 4aa-\
+.
+4ff\ 4aa-\
+.
+=11
+4ff\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+=12
+!!linebreak:original
+4cc\
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+.
+=13
+4ff\
+.
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+=14
+4cc\
+.
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+.
+=15
+4dd-\
+8aa-\L 8bb-\
+8aa-\J 8bb-\
+8aa-\L 8bb-\
+8aa-\J 8bb-\
+=16
+4b-\
+4aa-\ 4bb-\
+.
+4aa-\ 4bb-\
+.
+=17
+!!linebreak:original
+4cc\
+.
+8ggn\L 8ccc\
+8gg\J 8ccc\
+8gg\L 8ccc\
+8gg\J 8ccc\
+=18
+4cc#\
+4aan\ 4ccc#\
+4aa\ 4ccc#\
+.
+=19
+4ddn\
+8aan\L 8dddn\
+8aa\J 8ddd\
+8aa\L 8ddd\
+8aa\J 8ddd\
+=20
+4cc\
+4aan\ 4dddn\
+.
+4aa\ 4ddd\
+.
+=21
+4bn\
+8ggn\L 8dddn\
+8gg\J 8ddd\
+8gg\L 8ddd\
+8gg\J 8ddd\
+=22
+!!linebreak:original
+4bn\
+4aa-\ 4dddn\
+.
+4aa-\ 4ddd\
+.
+=23
+4b-\
+.
+8aa-\L 8bb-\
+8aa-\J 8bb-\
+8aa-\L 8bb-\
+8aa-\J 8bb-\
+=24
+4cc\
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+.
+=25
+4dd-\
+.
+8aa-\L 8ddd-\
+8aa-\J 8ddd-\
+8aa-\L 8ddd-\
+8aa-\J 8ddd-\
+*
+=26
+4dd-\
+4aa-\ 4ddd-\
+4aa-\ 4ddd-\
+.
+=27
+!!pagebreak:original
+4ddn\
+8aa-\L 8dddn\
+8aa-\J 8ddd\
+8aa-\L 8ddd\
+8aa-\J 8ddd\
+=28
+4r
+.
+4fff\
+.
+4ddd-\
+.
+*
+=29
+4ccc\
+.
+4ccc-\
+.
+4bb-\
+.
+=30
+4.aan\
+.
+.
+8aa-\
+8ggn\L
+8een\J
+=31
+8ee-\L
+8gg-\J
+8g-/L
+8dd-/J
+8cc\L
+8b-\J
+=32
+!!linebreak:original
+8f/L
+8dd-/J
+8cc\L
+8b-\J
+8en/L
+8dd-/J
+=33
+8aa-\L
+8ggn\J
+8dd-\L
+8cc\J
+8ccc\L
+8cc\J
+=34
+4ff\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+=35
+4cc\
+.
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+.
+=36
+4ff\
+.
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+=37
+!!linebreak:original
+4cc\
+.
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+.
+=38
+4ff\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+8aa-\L 8ccc\
+8aa-\J 8ccc\
+=39
+4cc\
+4aa-\ 4ccc\
+.
+4aa-\ 4ccc\
+=40
+4aa-\ 4ccc\
+.
+4r
+.
+8ddn\L
+8ff\J
+=41
+4aan\
+4bb-\
+4ccc\
+=42
+4ddd-\
+4r
+.
+4r
+.
+=43
+!!linebreak:original
+4r
+8r
+8a-/
+8b-\L
+8cc\J
+=44
+8dd-\L
+8ee-\J
+8ff\L
+8gg-\J
+8aa-\L
+8bb-\J
+=45
+8ccc\L
+8ddd-\J
+8eee-\L
+8ddd-\J
+8eee-\L
+8fff\J
+=46
+[2ggg-\
+.
+.
+8ggg-\L]
+8fff\J
+=47
+4.eee-\
+.
+8aa-\
+8bb-\L
+8ccc\J
+=48
+[2.ddd-\
+.
+.
+.
+.
+=49
+4ddd-\]
+2r
+.
+=50
+!!linebreak:original
+2.r
+.
+.
+.
+.
+=51
+2.r
+.
+.
+=52
+4r
+4gn/
+4b-\
+=53
+4ddn\
+4ff\
+4aan\
+=54
+2.ddd-\
+=55
+2.fff\
+=56
+2.aaa-\
+=57
+2.bb-\ 2.bbb-\
+=58
+2.ddd-\ 2.dddd-\
+=59
+2.dd-\ 2.aa-\
+==
+*-

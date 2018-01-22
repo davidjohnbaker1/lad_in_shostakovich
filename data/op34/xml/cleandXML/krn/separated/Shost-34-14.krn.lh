@@ -1,0 +1,189 @@
+**kern
+*staff2
+=1-
+*clefF4
+*k[b-e-a-d-g-c-]
+*G-:
+*M3/4
+4.EEE-/ 4.EE-/
+8EEE-/ 8EE-/
+4EEE-/ 4EE-/
+=2
+8r
+8BBBB-/ 8BBB-/
+4.EEE-/ 4.EE-/
+8FFF/ 8FF/
+=3
+2.EEE-/ 2.EE-/
+.
+.
+=4
+8DDDn/L 8DDn/
+8EEE-/J 8EE-/
+8FFF/L 8FF/
+8EEE-/J 8EE-/
+8FFF/L 8FF/
+8GGG-/J 8GG-/
+=5
+[2AAA--/ [2AA--/
+.
+8GGG/L] 8AA--/]
+8EEE-/J 8EE-/
+=6
+2.GGG-/ 2.GG-/
+.
+.
+=7
+2.r
+=8
+!!linebreak:original
+4.EEE-/ 4.EE-/
+8EEE-/ 8EE-/
+4EEE-/ 4EE-/
+=9
+4AAA-/ [4AA-/
+8AAA-/ 8AA-/]
+8r
+4r
+=10
+4r
+8r
+8GGG-/ 8GG-/
+4GGG-/ 4GG-/
+=11
+4r
+8r
+8FFF/ 8FF/
+4FFF/ 4FF/
+=12
+4r
+8r
+8EEEn/ 8EEn/
+4EEE/ 4EE/
+=13
+4r
+8BBBn/ 8BBn/
+4AAAn/ 4AAn/
+8GGGn/ 8GGn/
+=14
+!!pagebreak:original
+4r
+12BB-/L
+12BB-/
+12BB-/J
+4r
+=15
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BB-/J
+=16
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BBB-/J
+=17
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BBB-/J
+12BB-/L
+12BBB-/
+12BBB-/J
+=18
+!!linebreak:original
+12r
+12AAAn/L 12AAn/
+12BBB-/J 12BB-/
+12CCn/L 12Cn/
+12BBB-/ 12BB-/
+12CC/J 12C/
+12DD-/L 12D-/
+12CC/ 12C/
+12DD-/J 12D-/
+=19
+12EE-/L 12E-/
+12DDn/ 12Dn/
+12EE-/J 12E-/
+12EEn/L 12En/
+12EE-/ 12E-/
+12EEn/J 12En/
+12FF/L 12F/
+12EE/ 12E/
+12FF/J 12F/
+=20
+2GG-/ 2G-/
+4AA-\ 4A-\
+=21
+2BB-\ 2B-\
+4C-\ 4c-\
+=22
+2D-\ 2d-\
+*clefG2
+8.a-/L
+16dd-/Jk
+=23
+!!linebreak:original
+*M5/4
+2aa-\
+4.aan\
+8ddd-\L
+8eee-\
+8ddd-\J
+*clefF4
+=24
+*M3/4
+4GGG-/ 4GG-/
+20BB-\LL
+20E-\
+20G-\
+20B-\
+20e-\JJ
+4g-\
+=25
+2.BBB-/ 2.BB-/
+=26
+2EEE-/ 2EE-/
+4FFF/ 4FF/
+=27
+2EEE-/ 2EE-/
+4FFF/ 4FF/
+=28
+!!pagebreak:original
+2.EEE-/ 2.EE-/
+=29
+2.r
+=30
+2.DDDn/ 2.BBB-/ 2.DDn/ 2.BB-/
+=31
+2.BBB-/ 2.BB-/
+=32
+[2.EEE-/ [2.EE-/
+=33
+8EEE-/L] 8EE-/]
+8FFF/J 8FF/
+4.GGG-/ 4.GG-/
+8FFF/ 8FF/
+=34
+4.EEE-/ 4.EE-/
+8EEE-/ 8EE-/
+4EEE-/ 4EE-/
+=35
+!!linebreak:original
+2.EEE-/ 2.EE-/
+=36
+2.EEE-/ 2.EE-/
+==
+*-

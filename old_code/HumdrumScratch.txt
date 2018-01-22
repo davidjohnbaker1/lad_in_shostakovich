@@ -1,0 +1,5 @@
+solfa -x *.krn | rid -GLId | grep -v '=' | context -n 2 | grep '^fi' | sortcount -p
+
+or without humdrum extra:
+
+solfa -x *.krn | rid -GLId | grep -v '=' | context -n 2 | grep '^fi' | sort | uniq -c | sort -n

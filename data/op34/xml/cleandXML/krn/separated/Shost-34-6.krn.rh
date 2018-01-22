@@ -1,0 +1,349 @@
+**kern
+*staff1
+=1-
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+8f#/
+8r
+8ff#\
+8r
+=2
+16ee\LL
+16dd\
+16ccn\
+16a\JJ
+8e/L
+8ee-/J
+=3
+16dd\LL
+16ccn\
+16b-\
+16a\JJ
+8g/
+8r
+=4
+[2f#/
+.
+.
+.
+.
+.
+=5
+2f#/_
+.
+.
+.
+=6
+8f#/]
+8r
+8b\ 8bb\
+16r
+16b\ 16bb\
+=7
+!!linebreak:original
+8ccn\ 8bb\
+8r
+8cc\ 8aa\
+8r
+=8
+4r
+.
+8ccn\ 8bb\
+16r
+16cc\ 16aa\
+=9
+8b\ 8gg\
+8r
+8g\ 8dd\
+8r
+=10
+4r
+.
+8g\ 8ee-\
+16r
+16fn/ 16dd/
+=11
+8e-/ 8cc#/
+8r
+8d/ 8g/
+8r
+=12
+8cn/ 8e-/
+8r
+8e-/ 8dd/
+8r
+=13
+!!linebreak:original
+8d/L 8b/
+16e/L 16ccn/
+16f#/JJ 16dd/
+16g\LL 16ee\
+16a\ 16ff#\
+16b\ 16gg\
+16cc#\JJ 16aa\
+=14
+8dd\ 8bb\
+8r
+8dd\ 8ddd\
+16r
+16dd\ 16ccc#\
+=15
+8dd\ 8cccn\
+8r
+8dd\ 8gg\
+8r
+=16
+4r
+.
+8dd\ 8ccc#\
+16r
+16dd\ 16cccn\
+=17
+8dd#\ 8bb\
+8r
+8b\ 8ff#\
+8r
+=18
+4r
+.
+8cc#\L
+8ee\J
+=19
+!!linebreak:original
+8.aa-\L
+16gg\Jk
+8ee-\L
+8ccn\J
+=20
+4r
+8e-/ 8dd/
+8r
+=21
+8d/ 8b/
+8r
+.
+4r
+.
+=22
+8r
+8dd\
+8c#/L
+8d/J
+=23
+8d#/L
+16e/L
+16a/JJ
+8ccn\L
+8aa-\J
+=24
+8aa-\
+8r
+8e-/L
+8d/J
+=25
+!!linebreak:original
+8c#/L
+16d/L
+16g/JJ
+8b-\L
+8gg-\J
+=26
+8gg-\
+8r
+8.ee\L
+.
+16ffn\Jk
+=27
+8eee-\ 8ggg\
+8r
+8ddd\ 8fff#\
+8r
+=28
+8a\L 8aa\
+16g\L 16gg\
+16fn\JJ 16ffn\
+8e/L 8ee/
+8d/J 8dd/
+=29
+4r
+.
+.
+8fn/L
+8a/J
+=30
+8b-\L
+8ee-\J
+.
+8aa-\L
+8aaa-\J
+=31
+!!pagebreak:original
+[2fffn\
+.
+.
+=32
+8fff\L]
+16fff#\L
+16ggg\JJ
+8fff#\L
+8ddd\J
+=33
+8bb\
+8r
+4r
+.
+=34
+8r
+8d/ 8b/ 8dd/
+8r
+8d/ 8b/ 8dd/
+=35
+8d/ 8b/ 8dd/
+8r
+8d/ 8b/ 8dd/
+8r
+=36
+8r
+16d/LL 16cc#/ 16ee/
+16d/JJ 16cc#/ 16ee/
+8d/L 8cc#/ 8ee/
+8d/J 8cc#/ 8ee/
+=37
+8d/ 8cc#/ 8ee/
+8r
+4r
+.
+=38
+!!linebreak:original
+8r
+8d/ 8cc#/ 8ee/
+8r
+8d/ 8cc#/ 8ee/
+=39
+8r
+8d/ 8cc#/ 8ee/
+8r
+8d/ 8cc#/ 8ee/
+=40
+8r
+16e\LL 16dd\ 16ff#\
+16e\JJ 16dd\ 16ff#\
+8e\L 8dd\ 8ff#\
+8e\J 8dd\ 8ff#\
+=41
+8e\ 8dd\ 8ff#\
+8r
+4r
+.
+=42
+4.aa\
+.
+.
+8gg\
+=43
+8ff#\L
+8ee\J
+8dd\L
+8cc#\J
+=44
+8ccn\L
+16b\L
+16b\JJ
+8b\L
+8b\J
+=45
+!!linebreak:original
+8r
+8b\ 8dd\ 8bb\
+8r
+8b\ 8dd\ 8bb\
+=46
+8r
+8b\ 8dd\ 8bb\
+8r
+8b\ 8dd\ 8bb\
+=47
+8b\ 8dd\ 8bb\
+8r
+.
+4r
+.
+=48
+*M3/4
+4r
+.
+.
+4r
+.
+4ee-\ 4ddd\
+=49
+*M2/4
+4dd\ 4bb\
+.
+.
+4r
+.
+=50
+*M3/4
+4.dd\ 4.ff#\ 4.ddd\
+.
+4.dd\ 4.ff#\ 4.ddd\
+.
+.
+.
+.
+=51
+!!linebreak:original
+*M2/4
+8dd\L 8ff#\ 8ddd\
+8ccn\J 8dd\ 8ff#\ 8cccn\
+4cc\ 4dd\ 4ff#\ 4ccc\
+.
+.
+.
+=52
+8ccn\L 8dd\ 8ff#\ 8ccc#\
+8b\J 8dd\ 8ff#\ 8bb\
+4b\ 4dd\ 4ff#\ 4bb\
+.
+.
+.
+=53
+8b\L 8dd\ 8ff#\ 8bb\
+8a\J 8dd\ 8ff#\ 8aa\
+4a\ 4dd\ 4ff#\ 4aa\
+.
+.
+.
+=54
+8a\L 8dd\ 8ff#\ 8aa\
+8g\J 8dd\ 8ff#\ 8gg\
+4g\ 4dd\ 4ff#\ 4gg\
+.
+.
+.
+=55
+8e#/ 8g/
+8r
+.
+4r
+.
+=56
+!!linebreak:original
+4r
+8F#/ 8f#/ 8dd/ 8ff#/
+8r
+=57
+8b\ 8dd\ 8bb\
+8r
+.
+[4B/
+.
+=58
+8B/]
+8r
+4r
+==
+*-

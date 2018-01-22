@@ -1,0 +1,270 @@
+**kern
+*staff1
+=1-
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+8r
+16c/LL
+16d/JJ
+8e-/L
+8c/J
+=2
+4B-/
+4cc\
+=3
+4bn\
+.
+.
+4an\ 4dd\ 4bbn\
+.
+=4
+8cc\L 8ee-\ 8ccc\
+8dd\J 8ff\ 8ddd\
+4ee-\ 4gg\ 4eee-\
+=5
+*M3/4
+8r
+[8gg\ [8ggg\
+16gg\LL] 16ggg\]
+16fff#\
+16fffn\
+16eeen\JJ
+8eee-\L
+8dd\J
+=6
+!!linebreak:original
+*M2/4
+8.gg\L
+16ff\Jk
+16ee-\LL
+16dd\J
+[8dd-\J
+=7
+8dd-\] 8ff-\ 8aa-\
+8r
+8g\ 8ffn\ 8gg\
+8r
+=8
+4.ff#\
+.
+.
+.
+8ffn\
+.
+=9
+16een\LL
+16ee-\
+16dd\
+16dd-\JJ
+[4cc\
+.
+.
+=10
+8cc\L]
+16cc\L
+16dd\JJ
+16een\LL
+16ff\
+16gg\
+16aan\JJ
+=11
+!!linebreak:original
+16ccc-\LL
+16bb-\
+16ff\
+16dd-\JJ
+4b-\
+.
+.
+=12
+8.an/L
+.
+16bn/Jk
+16cc#\LL
+16dd\
+16een\
+16ff\JJ
+=13
+8.gg\L
+.
+16aan\Jk
+16bbn\LL
+16ccc\
+16ddd\
+16eeen\JJ
+=14
+8ggg-\L
+16ee-\L 16gg-\
+16cc-\JJ 16ee-\
+16ee-\LL 16gg-\
+16cc\ 16ee-\
+16ee-\ 16gg-\
+16cc-\JJ 16ee-\
+=15
+!!pagebreak:original
+16ff\LL 16aa-\
+16dd\ 16ff\
+16ff\ 16aa-\
+16dd\JJ 16ff\
+16ff\LL 16aa-\
+16dd\ 16ff\
+16ff\ 16aa-\
+16dd\JJ 16ff\
+=16
+16ff\LL 16aa-\
+16dd\ 16ff\
+16ff\ 16aa-\
+16dd\JJ 16ff\
+16ff\LL 16aa-\
+16dd\ 16ff\
+16ff\ 16aa-\
+16dd\JJ 16ff\
+=17
+16gg-\LL 16bb-\
+16ee-\ 16gg-\
+16gg-\ 16bb-\
+16ee-\JJ 16gg-\
+16gg-\LL 16bb-\
+16ee-\ 16gg-\
+16gg-\ 16bb-\
+16ee-\JJ 16gg-\
+=18
+16gg\LL 16bbn\
+16een\ 16gg\
+16gg\ 16bb\
+16ee\JJ 16gg\
+16gg\LL 16bb\
+16ee\ 16gg\
+16gg\ 16bb\
+16ee\JJ 16gg\
+=19
+!!linebreak:original
+16aa-\LL 16ccc\
+16ff\ 16aa-\
+16aa-\ 16ccc\
+16ff\JJ 16aa-\
+16b-\LL
+16cc\
+16dd-\
+16ee-\JJ
+=20
+16a-\LL
+16b-\
+16cc\
+16dd-\JJ
+16ddn\LL
+16a-\J 16ff\ 16gg\
+8a-\J 8ff\ 8gg\
+.
+=21
+16cc\LL
+16a-\J 16ff\ 16gg\
+8a-\J 8ff\ 8gg\
+.
+16b-\LL
+16a-\J 16ff\ 16gg\
+8a-\J 8ff\ 8gg\
+.
+=22
+8r
+8dd-\ 8ff-\ 8aa-\
+8g\ 8ffn\ 8gg\
+8r
+=23
+!!linebreak:original
+8r
+16g/LL
+16cc/JJ
+8ccc\
+8r
+=24
+4r
+.
+.
+.
+8r
+16a-/LL
+16dd-/JJ
+=25
+8ddd-\
+8r
+16b-\LL
+16ee-\J
+8eee-\J
+*
+=26
+8r
+.
+16ccc\LL
+16ddd\JJ
+8eee-\L
+.
+8fff\J
+.
+=27
+!!linebreak:original
+16ggg\LL
+16aaa-\
+16ggg\
+16fff\JJ
+16eee-\LL
+16fff\
+16eee-\
+16ddd\JJ
+*
+=28
+16ccc\LL
+16gg\
+16bb-\
+16cc\JJ
+16ff\LL
+16cc\
+16ee-\
+16f\JJ
+=29
+16dd\LL
+16gg\
+16dd-\
+16e-\JJ
+8a-/L
+.
+*clefF4
+8G/J
+.
+=30
+8A-/L
+[8AA-/J
+.
+16AA-/LL]
+16BB-/
+16C/
+16E-/JJ
+=31
+!!pagebreak:original
+16An\LL
+16Bn\
+16c#\
+16en\JJ
+*clefG2
+16b-\LL
+16cc\
+16dd\
+16ff\JJ
+=32
+16bbn\LL
+16ccc#\
+16ddd#\
+16fff#\JJ
+16cccc\LL
+16dddd\
+16eeee-\
+16gggg\JJ
+=33
+16ccccc\
+16r
+8r
+4r
+==
+*-
