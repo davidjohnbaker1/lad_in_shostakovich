@@ -11,6 +11,9 @@ This project began at the start of my PhD and the old\_code directory provides a
 * [ ] Add in Metadata for Op 34
 * [ ] Encode Op 87 into XML 
 * [ ] Draft Outline of Paper 
+* [X] Split Op 87 to PDF
+* [ ] Run Op 87 thru Optical Recognition
+* [ ] Spot Check Op 87 
 
 ### Minor Progress
 
